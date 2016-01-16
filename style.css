@@ -3,6 +3,10 @@ body {
   padding: 0;
   font-family: 'Open Sans', Helvetica, sans-serif;
 }
+abbr {
+  cursor: help;
+  text-decoration: underline;
+}
 
 #bg {
   background-image: url(detectors.png);
