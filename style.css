@@ -78,8 +78,9 @@ abbr {
 }
 .sidebar {
   box-sizing: border-box;
-  width:35%;
+  width:36%;
   padding-left:20px;
+  margin-top: -25px;
   -webkit-box-ordinal-group: 3;
   -webkit-order: 2;
       -ms-flex-order: 2;
@@ -94,7 +95,7 @@ ul {
 }
 li {
   margin-left:8px;
-  margin-top:3px;
+  margin-top:1px;
   font-size: 15px;
   line-height:17px;
 }
