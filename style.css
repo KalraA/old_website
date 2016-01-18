@@ -165,7 +165,7 @@ a {
   -ms-hyphens: auto;
       hyphens: auto;
 }
-h4 a, li a {
+h4 a {
   font-weight: bold;
 }
 #contact a {
