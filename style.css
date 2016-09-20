@@ -79,7 +79,7 @@ abbr {
   box-sizing: border-box;
   width:36%;
   padding-left:20px;
-  margin-top: 0px;
+  margin-top: -10px;
   -webkit-box-ordinal-group: 3;
   -webkit-order: 2;
       -ms-flex-order: 2;
@@ -247,14 +247,14 @@ h4 a {
     ul {
       page-break-inside: avoid;
       page-break-before: avoid;
-      margin-bottom: 32px;
+      margin-bottom: 10px;
     }
     li {
       page-break-inside: avoid;
       page-break-before: avoid;
     }
     h2 {
-      font-size: 20px;
+      font-size: 17px;
       margin: 22px 0 5px 0;
     }
     h3 {
@@ -264,7 +264,7 @@ h4 a {
     h4 {
       font-size: 15px;
       line-height:16px;
-      margin-top:10px;
+      margin-top:1px;
       margin-bottom: 1px;
     }
     h4 a {

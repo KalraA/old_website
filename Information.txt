@@ -1,0 +1,46 @@
+Agastya Kalra
+
+Problem Solver | Machine Learning Expert
+
+I believe that machine learning is all about problem solving and learning the tools required to solve the problem at hand. Tools are just a means to an end.
+
+Deep Learning Toolkit:
+
+	Models with which I am theoritically and practically proficient: 
+
+	FCNN; 
+	RNN - LSTMs, GRUs, Simple RNNs; 
+	CNN - Convolutions, Pooling, Inception Modules; 
+	CRNN;
+	Deep Belief Network;
+	Sum-Product Networks;
+
+	Libraries/Languages that I have used:
+
+	Python - Tensorflow, Theano, Keras, Graphlab Create and MATLAB
+
+Reinforcement Learning Toolkit:
+
+	Models with which I am theoritically and practically proficient:
+
+	Q - Learning
+	Deep Q Learning
+	Policy Gradient REINFORCE
+	Genetic Breeding
+
+Other Machine Learning/Artificial Intelligence Toolkit:
+
+	Models I have used and mathematically understood:
+	
+	SVMs
+	Clustering
+	Regressions
+	Gradient Descent
+	Nearest Neighbors
+	Anomaly Detection
+	Dynamic Time Warping
+	Alpha Beta Minimax
+	Proof Number Search
+	Monte Carlo Tree Search
+	Data Augmentation
+
