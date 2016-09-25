@@ -24,8 +24,6 @@ abbr {
   content: "";
 }
 
-
-
 #bg ul#contact a {
   color:#FFF;
 }
@@ -275,8 +273,11 @@ h4 a {
     }
     p, li, .main h5 {
       font-size:14px;
-      line-height:15px;
+      line-height:20px;
       page-break-inside:avoid;
+    }
+    .sidebar li {
+      line-height:16px !important;
     }
 
     #bg {
