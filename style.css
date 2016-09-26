@@ -252,7 +252,7 @@ h4 a {
       page-break-before: avoid;
     }
     h2 {
-      font-size: 17px;
+      font-size: 22px;
       margin: 22px 0 5px 0;
     }
     h3 {
@@ -266,14 +266,14 @@ h4 a {
       margin-bottom: 1px;
     }
     h4 a {
-      font-size: 16px;
+      font-size: 15px;
     }
     a {
       font-weight:inherit;
     }
     p, li, .main h5 {
       font-size:14px;
-      line-height:22px;
+      line-height:20px;
       page-break-inside:avoid;
     }
     .sidebar li {
