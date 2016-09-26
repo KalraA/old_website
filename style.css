@@ -273,11 +273,11 @@ h4 a {
     }
     p, li, .main h5 {
       font-size:14px;
-      line-height:20px;
+      line-height:22px;
       page-break-inside:avoid;
     }
     .sidebar li {
-      line-height:16px !important;
+      line-height:15px !important;
     }
 
     #bg {
